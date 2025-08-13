@@ -9,4 +9,4 @@ var WeekDays;
     WeekDays[WeekDays["Sunday"] = 6] = "Sunday";
 })(WeekDays || (WeekDays = {}));
 var today = WeekDays.Friday;
-console.log("Today is : ", WeekDays[today]);
+console.log("Today is:", WeekDays[today]);
