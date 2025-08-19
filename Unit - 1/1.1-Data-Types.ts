@@ -6,4 +6,10 @@ var result: void = undefined;
 var nothing: null = null;
 var notAssigned: undefined = undefined;
 
-console.log(userName, userAge, isActive, unknownType, result, nothing, notAssigned);
+console.log(userName);
+console.log(userAge);
+console.log(isActive);
+console.log(unknownType);
+console.log(result);
+console.log(nothing);
+console.log(notAssigned);
