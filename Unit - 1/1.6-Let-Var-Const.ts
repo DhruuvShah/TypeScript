@@ -1,3 +1,5 @@
+//  Write a program to show the difference between `let`, `var`, and `const`.
+
 var a = 10;
 let b = 20;
 const c = 30;

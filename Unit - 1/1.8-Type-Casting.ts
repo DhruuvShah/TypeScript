@@ -1,3 +1,5 @@
+// Type Casting Between string and number.
+
 let a : string = "123";
 let b : number = Number(a);
 console.log("Number:",b);

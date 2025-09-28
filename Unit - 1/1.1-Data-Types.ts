@@ -1,3 +1,5 @@
+// Write a program using different TypeScript data types (string, number, boolean, any.
+
 var userName: string = "Alice";
 var userAge: number = 21;
 var isActive: boolean = true;

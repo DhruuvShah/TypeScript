@@ -1,3 +1,5 @@
+//  Use Type Inference and Explicit Type Definitions.
+
 // Type Inference (no need to explicitly specify type)
 let student = "Riya"; 
 let score = 95; 

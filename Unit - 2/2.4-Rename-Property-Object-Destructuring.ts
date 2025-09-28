@@ -1,3 +1,5 @@
+// Write a program to use Rename Properties While destructuring an object.
+
 let employee = {
     empId: 123,
     empName: "Rahul"

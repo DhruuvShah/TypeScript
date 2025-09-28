@@ -1,3 +1,5 @@
+// Use const with Object and Array Immutability
+
 const student = { name: "Riya", age: 21 };
 
 student.age = 22;

@@ -1,3 +1,5 @@
+// Write a program to use object destructuring to extract properties from an object.
+
 let student = {
     id: 101,
     naam: "Alice",

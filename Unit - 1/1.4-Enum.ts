@@ -1,3 +1,5 @@
+// Use an Enum to Define Days of the Week and Log a Value from It.
+
 enum WeekDays{
     Monday,
     Tuesday,
